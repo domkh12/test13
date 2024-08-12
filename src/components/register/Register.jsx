@@ -10,6 +10,7 @@ import { ToastContainer, toast } from "react-toastify";
 import { motion } from "framer-motion"; // Import framer-motion
 import { FaTimes } from "react-icons/fa"; // Import FaTimes for the X button
 import "react-toastify/dist/ReactToastify.css";
+import SEO from "../seo/SEO";
 
 const validationSchema = Yup.object({
   username: Yup.string().required("Username is required"),
