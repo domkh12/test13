@@ -84,6 +84,12 @@ export function ComponentRegister() {
         isDarkMode ? "bg-gray-900 text-gray-100" : "bg-white text-black"
       }`}
     >
+      <SEO
+        title="Register - Showcase"
+        description="Register for Showcase - Create your professional portfolio effortlessly. Join us today and start building your unique portfolio."
+        keywords="register, portfolio builder, professional portfolio, website builder, Showcase"
+        image="/Showcase.png"
+      />     
       <button
         onClick={handleHomeClick}
         className={`absolute top-5 left-5 w-10 h-10 flex justify-center items-center rounded-full shadow-lg ${
