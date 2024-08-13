@@ -33,7 +33,7 @@ function App() {
         title="Showcase"
         description="Showcase: Build and customize your professional portfolio effortlessly. Choose templates, edit content, and share your portfolio online."
         keywords="portfolio builder, professional portfolio, website builder, templates, portfolio customization, Showcase"
-        image="/Showcase.png"
+        image="https://test13-ruby.vercel.app/Showcase.png"
       />
       <header>
         <NavBarComponent />

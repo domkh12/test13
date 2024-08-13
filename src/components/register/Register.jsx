@@ -89,7 +89,7 @@ export function ComponentRegister() {
         title="Register - Showcase"
         description="Register for Showcase - Create your professional portfolio effortlessly. Join us today and start building your unique portfolio."
         keywords="register, portfolio builder, professional portfolio, website builder, Showcase"
-        image="/Showcase.png"
+        image="https://test13-ruby.vercel.app/Showcase.png"
       />     
       <button
         onClick={handleHomeClick}
